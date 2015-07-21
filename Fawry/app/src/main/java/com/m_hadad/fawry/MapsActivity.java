@@ -1,7 +1,8 @@
 package com.m_hadad.fawry;
 
-import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
+import android.support.v4.app.FragmentActivity;
+import android.util.Log;
 
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.SupportMapFragment;
@@ -13,7 +14,7 @@ import java.util.ArrayList;
 public class MapsActivity extends FragmentActivity {
 
     private GoogleMap mMap; // Might be null if Google Play services APK is not available.
-    private  ArrayList<MarkerOptions>branches;
+    private ArrayList<MarkerOptions> branches;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -54,7 +55,7 @@ public class MapsActivity extends FragmentActivity {
                 branches = new ArrayList<MarkerOptions>();
                 branches.add(new MarkerOptions().position(new LatLng(30, 31)).title("b1"));
                 branches.add(new MarkerOptions().position(new LatLng(29, 30)).title("b2"));
-                branches.add(new MarkerOptions().position(new LatLng(32, 31)).title("b3"));
+                branches.add(new MarkerOptions().position(new LatLng(30, 32)).title("b3"));
                 branches.add(new MarkerOptions().position(new LatLng(30, 33)).title("b4"));
 
                 setUpMap();
@@ -69,8 +70,10 @@ public class MapsActivity extends FragmentActivity {
      * This should only be called once and when we are sure that {@link #mMap} is not null.
      */
     private void setUpMap() {
-        for(MarkerOptions marker : branches){
+        for (MarkerOptions marker: branches)
+        {
             mMap.addMarker(marker);
+            Log.e("marker", marker.getTitle());
         }
     }
 }

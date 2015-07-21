@@ -4,6 +4,16 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Fawry.iml" filepath="$PROJECT_DIR$/Fawry.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gdata-appsforyourdomain-1.0/gdata-appsforyourdomain-1.0.iml" filepath="$PROJECT_DIR$/gdata-appsforyourdomain-1.0/gdata-appsforyourdomain-1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gdata-base-1.0/gdata-base-1.0.iml" filepath="$PROJECT_DIR$/gdata-base-1.0/gdata-base-1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gdata-calendar-1.0/gdata-calendar-1.0.iml" filepath="$PROJECT_DIR$/gdata-calendar-1.0/gdata-calendar-1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gdata-client-1.0/gdata-client-1.0.iml" filepath="$PROJECT_DIR$/gdata-client-1.0/gdata-client-1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gdata-codesearch-1.0/gdata-codesearch-1.0.iml" filepath="$PROJECT_DIR$/gdata-codesearch-1.0/gdata-codesearch-1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gdata-photos-1.0/gdata-photos-1.0.iml" filepath="$PROJECT_DIR$/gdata-photos-1.0/gdata-photos-1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gdata-spreadsheet-1.0/gdata-spreadsheet-1.0.iml" filepath="$PROJECT_DIR$/gdata-spreadsheet-1.0/gdata-spreadsheet-1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guava-11.0.2/guava-11.0.2.iml" filepath="$PROJECT_DIR$/guava-11.0.2/guava-11.0.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsr305/jsr305.iml" filepath="$PROJECT_DIR$/jsr305/jsr305.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mail/mail.iml" filepath="$PROJECT_DIR$/mail/mail.iml" />
     </modules>
   </component>
 </project>

@@ -11,6 +11,16 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/gdata-appsforyourdomain-1.0" />
+            <option value="$PROJECT_DIR$/gdata-base-1.0" />
+            <option value="$PROJECT_DIR$/gdata-calendar-1.0" />
+            <option value="$PROJECT_DIR$/gdata-client-1.0" />
+            <option value="$PROJECT_DIR$/gdata-codesearch-1.0" />
+            <option value="$PROJECT_DIR$/gdata-photos-1.0" />
+            <option value="$PROJECT_DIR$/gdata-spreadsheet-1.0" />
+            <option value="$PROJECT_DIR$/guava-11.0.2" />
+            <option value="$PROJECT_DIR$/jsr305" />
+            <option value="$PROJECT_DIR$/mail" />
           </set>
         </option>
       </GradleProjectSettings>
