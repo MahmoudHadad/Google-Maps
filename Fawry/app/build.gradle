@@ -27,4 +27,9 @@ dependencies {
     compile project(':gdata-spreadsheet-1.0')
     compile project(':guava-11.0.2')
     compile project(':jsr305')
+    compile project(':gdata-client-1.0')
+    compile project(':gdata-codesearch-1.0')
+    compile project(':gdata-photos-1.0')
+    compile project(':gdata-calendar-1.0')
+    compile project(':gdata-appsforyourdomain-1.0')
 }

@@ -135,9 +135,14 @@
     <orderEntry type="library" exported="" name="play-services-games-7.5.0" level="project" />
     <orderEntry type="library" exported="" name="play-services-identity-7.5.0" level="project" />
     <orderEntry type="library" exported="" name="play-services-maps-7.5.0" level="project" />
+    <orderEntry type="module" module-name="gdata-codesearch-1.0" exported="" />
     <orderEntry type="module" module-name="guava-11.0.2" exported="" />
     <orderEntry type="module" module-name="gdata-spreadsheet-1.0" exported="" />
+    <orderEntry type="module" module-name="gdata-appsforyourdomain-1.0" exported="" />
     <orderEntry type="module" module-name="mail" exported="" />
+    <orderEntry type="module" module-name="gdata-client-1.0" exported="" />
+    <orderEntry type="module" module-name="gdata-photos-1.0" exported="" />
+    <orderEntry type="module" module-name="gdata-calendar-1.0" exported="" />
     <orderEntry type="module" module-name="jsr305" exported="" />
   </component>
 </module>
