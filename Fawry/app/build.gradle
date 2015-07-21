@@ -23,4 +23,8 @@ dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs')
     compile 'com.android.support:appcompat-v7:22.2.0'
     compile 'com.google.android.gms:play-services:7.5.0'
+    compile project(':mail')
+    compile project(':gdata-spreadsheet-1.0')
+    compile project(':guava-11.0.2')
+    compile project(':jsr305')
 }
