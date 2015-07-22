@@ -1,1 +1,1 @@
-include ':app', ':gdata-appsforyourdomain-1.0', ':gdata-calendar-1.0', ':gdata-codesearch-1.0', ':gdata-spreadsheet-1.0', ':guava-11.0.2', ':jsr305', ':mail', ':gdata-base-1.0', ':gdata-client-1.0', ':gdata-photos-1.0'
+include ':app', ':gdata-appsforyourdomain-1.0', ':gdata-calendar-1.0', ':gdata-codesearch-1.0', ':gdata-spreadsheet-1.0', ':guava-11.0.2', ':jsr305', ':mail', ':gdata-base-1.0', ':gdata-client-1.0', ':gdata-photos-1.0', ':javacsv'

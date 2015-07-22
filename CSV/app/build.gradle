@@ -5,7 +5,7 @@ android {
     buildToolsVersion "22.0.1"
 
     defaultConfig {
-        applicationId "com.m_hadad.fawry"
+        applicationId "com.m_hadad.csv"
         minSdkVersion 9
         targetSdkVersion 22
         versionCode 1
@@ -22,15 +22,5 @@ android {
 dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs')
     compile 'com.android.support:appcompat-v7:22.2.0'
-    compile 'com.google.android.gms:play-services:7.5.0'
-    compile project(':mail')
-    compile project(':gdata-spreadsheet-1.0')
-    compile project(':guava-11.0.2')
-    compile project(':jsr305')
-    compile project(':gdata-client-1.0')
-    compile project(':gdata-codesearch-1.0')
-    compile project(':gdata-photos-1.0')
-    compile project(':gdata-calendar-1.0')
-    compile project(':gdata-appsforyourdomain-1.0')
     compile project(':javacsv')
 }

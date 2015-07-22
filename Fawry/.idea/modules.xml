@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/gdata-photos-1.0/gdata-photos-1.0.iml" filepath="$PROJECT_DIR$/gdata-photos-1.0/gdata-photos-1.0.iml" />
       <module fileurl="file://$PROJECT_DIR$/gdata-spreadsheet-1.0/gdata-spreadsheet-1.0.iml" filepath="$PROJECT_DIR$/gdata-spreadsheet-1.0/gdata-spreadsheet-1.0.iml" />
       <module fileurl="file://$PROJECT_DIR$/guava-11.0.2/guava-11.0.2.iml" filepath="$PROJECT_DIR$/guava-11.0.2/guava-11.0.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacsv/javacsv.iml" filepath="$PROJECT_DIR$/javacsv/javacsv.iml" />
       <module fileurl="file://$PROJECT_DIR$/jsr305/jsr305.iml" filepath="$PROJECT_DIR$/jsr305/jsr305.iml" />
       <module fileurl="file://$PROJECT_DIR$/mail/mail.iml" filepath="$PROJECT_DIR$/mail/mail.iml" />
     </modules>
